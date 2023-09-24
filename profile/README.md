@@ -11,9 +11,6 @@
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/WFfjrQxnfH)](https://discord.gg/WFfjrQxnfH)
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://moo.is-a.fun)
 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/LRMN)
-
 </h3>
 </div>
 
@@ -24,5 +21,16 @@
 - Configurable, and easy to use.
 - Basic music and 24/7.
 - Support Youtube, Spotify, Soundcloud and etc
-
 Visit [moo.is-a.fun](https://moo.is-a.fun/) to learn more!
+
+----
+
+<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/LRMN">
+    <img alt="Donation" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
+  </a>
+</p>
+
+###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
+<!-- Heavily inspired by https://github.com/crunchy-lab !-->
